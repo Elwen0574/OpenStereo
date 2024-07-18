@@ -8,3 +8,4 @@ timm==0.4.12
 scikit-image
 thop
 matplotlib
+testing git
